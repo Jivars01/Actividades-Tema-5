@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12984dda-a8ce-45fa-955a-ff78ef346312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividades Tema 5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad_1/UsoWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad_2/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad_5/Cita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad_6/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad_6/Motocicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad_6/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/tarde/Escritorio/Trabajo de clase/Programacion/Actividades Tema 5"
   }
 }]]></component>
   <component name="RunManager">
@@ -75,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1767971284781</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actividades 1 y 4 del tema 5 de programación">
+      <created>1767975074849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767975074849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actividades 1 y 4 del tema 5 de programacíon" />
+    <MESSAGE value="Actividades 1 y 4 del tema 5 de programación" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividades 1 y 4 del tema 5 de programación" />
   </component>
 </project>
